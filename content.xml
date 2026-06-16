@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260616131117CL2J1H</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260616131117ZUOVSM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Al Abordaje!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Manoli Vargas Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se trata de una situación de aprendizaje centrada en el trabajo de la atención a través de la comprensión lectora. Para ello, se ha elegido la temática pirata que resulta muy atractiva y motivadora para el alumnado, con la idea de que el aprendizaje resulte un juego.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781608043698</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mqgjfgf7-830fdghiy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡AL ABORDAJE! LA AVENTURA PIRATA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡AL ABORDAJE! LA AVENTURA PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡AL ABORDAJE! LA AVENTURA PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgf7-830fdghiy</odePageId>
+      <odeBlockId>block-1780857589929-5mdwgelcv</odeBlockId>
+      <blockName>¡AL ABORDAJE!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgf7-830fdghiy</odePageId>
+          <odeBlockId>block-1780857589929-5mdwgelcv</odeBlockId>
+          <odeIdeviceId>idevice-1780857589928-koauncgor</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<figure class="exe-figure float-right" style="width: 200px;"><img src="{{context_path}}/content/resources/portada.png" width="200" height="292" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Barco pirata</em></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+<p style="text-align: center;"><strong>Título: ¡Al abordaje! La aventura pirata.</strong></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;">Curso: 3º de Educación Primaria</p>
+<p style="text-align: center;">Autoría: Manoli Vargas Martínez</p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780857589928-koauncgor","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<figure class=\"exe-figure float-right\" style=\"width: 200px;\"><img src=\"{{context_path}}/content/resources/portada.png\" width=\"200\" height=\"292\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Barco pirata</em></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>Título: ¡Al abordaje! La aventura pirata.</strong></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\">Curso: 3º de Educación Primaria</p>\n<p style=\"text-align: center;\">Autoría: Manoli Vargas Martínez</p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfb-k2cedup0v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENID@</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENID@</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>BIENVENID@</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfb-k2cedup0v</odePageId>
+      <odeBlockId>block-1780852941419-rwxwe2dp2</odeBlockId>
+      <blockName>BIENVENIDOS A BORDO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfb-k2cedup0v</odePageId>
+          <odeBlockId>block-1780852941419-rwxwe2dp2</odeBlockId>
+          <odeIdeviceId>idevice-1780852941418-cbsgxvk6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>¡Bienvenidos/as a bordo!</strong></h1>
+<p>Hola grumetes. Vamos a convertirnos en auténticos piratas. Descubriremos mapas, tesoros, islas y aprenderemos a trabajar juntos para conseguir el gran tesoro final.</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1AUOBlTipKDIa260h3CWho3ZjHEE1gCnN/view?usp=sharing" title="¡AL ABORDAJE!">¡AL ABORDAJE!</a></p>
+<figure class="exe-figure position-center" style="width: 250px;"><img src="{{context_path}}/content/resources/image (1).png" width="250" height="222" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Barco pirata</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780852941418-cbsgxvk6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>¡Bienvenidos/as a bordo!</strong></h1>\n<p>Hola grumetes. Vamos a convertirnos en auténticos piratas. Descubriremos mapas, tesoros, islas y aprenderemos a trabajar juntos para conseguir el gran tesoro final.</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1AUOBlTipKDIa260h3CWho3ZjHEE1gCnN/view?usp=sharing\" title=\"¡AL ABORDAJE!\">¡AL ABORDAJE!</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 250px;\"><img src=\"{{context_path}}/content/resources/image (1).png\" width=\"250\" height=\"222\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Barco pirata</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfc-4om1vqxw5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL: KAHOOT PIRATA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL: KAHOOT PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL: KAHOOT PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfc-4om1vqxw5</odePageId>
+      <odeBlockId>block-1780853589503-fo90h30oa</odeBlockId>
+      <blockName>KAHOOT PIRATA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfc-4om1vqxw5</odePageId>
+          <odeBlockId>block-1780853589503-fo90h30oa</odeBlockId>
+          <odeIdeviceId>idevice-1780853589502-ka324f5xw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 226px;"><img src="{{context_path}}/content/resources/botella.png" width="226" height="263" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Botella</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong>BÚSQUEDA DEL TESORO</strong><br /></p>
+<p style="text-align: left;">Al final de nuestro viaje, llegaremos al Kahoot Pirata, unas preguntas que nos van a hacer conseguir el tesoro escondido.</p>
+<p style="text-align: left;">A través de Kahoot, comprobaremos que hemos entendido toda la historia del pirata Tristán, recordando sus personajes, aventuras y momentos más importantes.</p>
+<p style="text-align: left;">Además, nos divertiremos navegando por los mares del conocimiento mientras utilizamos nuestras tablets para responder a los desafíos y conseguir llegar hasta el tesoro final.</p>
+<p style="text-align: center;">¡Preparad vuestro catalejo que comienza la aventura!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780853589502-ka324f5xw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 226px;\"><img src=\"{{context_path}}/content/resources/botella.png\" width=\"226\" height=\"263\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Botella</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong>BÚSQUEDA DEL TESORO</strong><br /></p>\n<p style=\"text-align: left;\">Al final de nuestro viaje, llegaremos al Kahoot Pirata, unas preguntas que nos van a hacer conseguir el tesoro escondido.</p>\n<p style=\"text-align: left;\">A través de Kahoot, comprobaremos que hemos entendido toda la historia del pirata Tristán, recordando sus personajes, aventuras y momentos más importantes.</p>\n<p style=\"text-align: left;\">Además, nos divertiremos navegando por los mares del conocimiento mientras utilizamos nuestras tablets para responder a los desafíos y conseguir llegar hasta el tesoro final.</p>\n<p style=\"text-align: center;\">¡Preparad vuestro catalejo que comienza la aventura!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfd-9id41xkx2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfd-9id41xkx2</odePageId>
+      <odeBlockId>block-1780853355977-otc0gif3s</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfd-9id41xkx2</odePageId>
+          <odeBlockId>block-1780853355977-otc0gif3s</odeBlockId>
+          <odeIdeviceId>idevice-1780853355975-0xd08ah8j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 201px;"><img src="{{context_path}}/content/resources/bandera pirata.png" width="201" height="177" alt="" style="float: left;" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Bandera pirata</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong>NAVEGUEMOS SEGUROS POR INTERNET</strong></p>
+<p>Antes de comenzar, es muy importante que conozcáis algunas cosas que hay que tener en cuenta para hacer un uso responsable de todo lo que nos proporciona internet a lo largo de nuestro viaje pirata.</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1_5JIeQapsgrh5D4aQeASE--VZP2N2n2E/view?usp=sharing" title="">Navega seguro por internet</a></p>
+<p><br /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780853355975-0xd08ah8j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 201px;\"><img src=\"{{context_path}}/content/resources/bandera pirata.png\" width=\"201\" height=\"177\" alt=\"\" style=\"float: left;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Bandera pirata</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong>NAVEGUEMOS SEGUROS POR INTERNET</strong></p>\n<p>Antes de comenzar, es muy importante que conozcáis algunas cosas que hay que tener en cuenta para hacer un uso responsable de todo lo que nos proporciona internet a lo largo de nuestro viaje pirata.</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1_5JIeQapsgrh5D4aQeASE--VZP2N2n2E/view?usp=sharing\" title=\"\">Navega seguro por internet</a></p>\n<p><br /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfe-xjea0qdk2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DEL CAPITÁN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DEL CAPITÁN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DEL CAPITÁN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>HERRAMIENTAS DEL CAPITÁN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfe-xjea0qdk2</odePageId>
+      <odeBlockId>block-1780853849816-8ivgeeeow</odeBlockId>
+      <blockName>LAS HERRAMIENTAS DEL CAPITÁN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfe-xjea0qdk2</odePageId>
+          <odeBlockId>block-1780853849816-8ivgeeeow</odeBlockId>
+          <odeIdeviceId>idevice-1780853849815-nckddlys9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 150px;"><img src="{{context_path}}/content/resources/capitan pirata.png" width="150" height="217" alt="" />
+<figcaption class="figcaption"><span class="author">Canva</span>. <span class="title"><em>Capitán pirata</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong></strong><br /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><strong>HERRAMIENTAS DEL CAPITÁN (CURACIÓN DE CONTENIDOS DOCENTE)</strong></p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1RkWcXq-iUYOGS-IyEv5e46Md13P3d7Tw/view?usp=sharing">HERRAMIENTAS MAESTRA</a></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780853849815-nckddlys9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 150px;\"><img src=\"{{context_path}}/content/resources/capitan pirata.png\" width=\"150\" height=\"217\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Canva</span>. <span class=\"title\"><em>Capitán pirata</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong></strong><br /></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><strong>HERRAMIENTAS DEL CAPITÁN (CURACIÓN DE CONTENIDOS DOCENTE)</strong></p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1RkWcXq-iUYOGS-IyEv5e46Md13P3d7Tw/view?usp=sharing\">HERRAMIENTAS MAESTRA</a></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgff-uptdqr0ic</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS DE LA TRIPULACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE LA TRIPULACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS DE LA TRIPULACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgff-uptdqr0ic</odePageId>
+      <odeBlockId>block-1780856425661-55knykrx8</odeBlockId>
+      <blockName>LAS HERRAMIENTAS DE LA TRIPULACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgff-uptdqr0ic</odePageId>
+          <odeBlockId>block-1780856425661-55knykrx8</odeBlockId>
+          <odeIdeviceId>idevice-1780856425660-0vileychg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-right" style="width: 300px;"><img src="{{context_path}}/content/resources/tripulacion.png" width="300" height="273" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Tripulación</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;"><strong></strong></p>
+<p style="text-align: center;"><strong></strong></p>
+<p style="text-align: center;"><strong>HERRAMIENTAS DE LA TRIPULACIÓN (CURACIÓN PARA ALUMNADO)</strong></p>
+<p>A continuación encontraréis un video donde podremos conocer más a fondo a nuestros amigos los piratas, así como tenemos la lectura del famoso pirata Tristán y el enlace a nuestro fantástico Kahoot.</p>
+<p style="text-align: center;"><a href="https://padlet.com/mvarmar460/mi-sandbox-sublime-duacu6dz8yhrg1pj" title="">HERRAMIENTAS TRIPULACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780856425660-0vileychg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-right\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/tripulacion.png\" width=\"300\" height=\"273\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Tripulación</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\"><strong></strong></p>\n<p style=\"text-align: center;\"><strong></strong></p>\n<p style=\"text-align: center;\"><strong>HERRAMIENTAS DE LA TRIPULACIÓN (CURACIÓN PARA ALUMNADO)</strong></p>\n<p>A continuación encontraréis un video donde podremos conocer más a fondo a nuestros amigos los piratas, así como tenemos la lectura del famoso pirata Tristán y el enlace a nuestro fantástico Kahoot.</p>\n<p style=\"text-align: center;\"><a href=\"https://padlet.com/mvarmar460/mi-sandbox-sublime-duacu6dz8yhrg1pj\" title=\"\">HERRAMIENTAS TRIPULACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfg-o20pxp8d4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RUTA PIRATA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RUTA PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RUTA PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>RUTA PIRATA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfg-o20pxp8d4</odePageId>
+      <odeBlockId>block-1780854151676-y0g65xb6n</odeBlockId>
+      <blockName>RUTA PIRATA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfg-o20pxp8d4</odePageId>
+          <odeBlockId>block-1780854151676-y0g65xb6n</odeBlockId>
+          <odeIdeviceId>idevice-1780854151675-g9bxjqd2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure float-left" style="width: 200px;"><img src="{{context_path}}/content/resources/mapa.png" width="200" height="171" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Mapa del tesoro</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p>Y os preguntaréis, ¿y nuestro mapa del tesoro? A continuación encontraréis el mapa del tesoro que guía todo nuestro viaje:</p>
+<p style="text-align: center;"><a href="https://view.genially.com/6a1d500a87132a4927c921b6" title="">MAPA DEL TESORO</a></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780854151675-g9bxjqd2y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure float-left\" style=\"width: 200px;\"><img src=\"{{context_path}}/content/resources/mapa.png\" width=\"200\" height=\"171\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Mapa del tesoro</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p>Y os preguntaréis, ¿y nuestro mapa del tesoro? A continuación encontraréis el mapa del tesoro que guía todo nuestro viaje:</p>\n<p style=\"text-align: center;\"><a href=\"https://view.genially.com/6a1d500a87132a4927c921b6\" title=\"\">MAPA DEL TESORO</a></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfh-97bw94ow1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿CÓMO SON LOS PIRATAS?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO SON LOS PIRATAS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿CÓMO SON LOS PIRATAS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfh-97bw94ow1</odePageId>
+      <odeBlockId>block-1780856753046-nkhsnhuet</odeBlockId>
+      <blockName>¿CÓMO SON LOS PIRATAS?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfh-97bw94ow1</odePageId>
+          <odeBlockId>block-1780856753046-nkhsnhuet</odeBlockId>
+          <odeIdeviceId>idevice-1780856753045-0hgswuyie</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ACT.1: ¿Cómo son los piratas?</strong></p>
+<figure class="exe-figure position-center" style="width: 300px;"><img src="{{context_path}}/content/resources/pirate kids in the sea concept happy kids pirate png.jpg" width="300" height="300" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Piratas</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">Vamos a hacer una lectura colectiva a través de la cual descubriremos como son los piratas:</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/10E41gdNG1T9lNpBsNlEywemj90lKkfhI/view?usp=sharing" title="">¿CÓMO SON LOS PIRATAS?</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780856753045-0hgswuyie","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ACT.1: ¿Cómo son los piratas?</strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/pirate kids in the sea concept happy kids pirate png.jpg\" width=\"300\" height=\"300\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Piratas</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">Vamos a hacer una lectura colectiva a través de la cual descubriremos como son los piratas:</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/10E41gdNG1T9lNpBsNlEywemj90lKkfhI/view?usp=sharing\" title=\"\">¿CÓMO SON LOS PIRATAS?</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfi-3p4h3c36u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TRISTÁN QUERÍA SER PIRATA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TRISTÁN QUERÍA SER PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TRISTÁN QUERÍA SER PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfi-3p4h3c36u</odePageId>
+      <odeBlockId>block-1780857170274-zwoxs0v8f</odeBlockId>
+      <blockName>TRISTÁN QUERÍA SER PIRATA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfi-3p4h3c36u</odePageId>
+          <odeBlockId>block-1780857170274-zwoxs0v8f</odeBlockId>
+          <odeIdeviceId>idevice-1780857170273-kmnt1a2qi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><strong>Act.2: Tristán.</strong></p>
+<figure class="exe-figure float-right" style="width: 100px;"><img src="{{context_path}}/content/resources/pirata 1.png" width="100" height="225" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Pirata</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">¡Ya sabemos como son los piratas! ¿Qué te han parecido? Geniales, ¿verdad</p>
+<p style="text-align: center;">Ahora vamos a conocer a nuestro amigo Tristán, un niño que soñaba con ser pirata:</p>
+<p style="text-align: center;"><a href="https://www.mundoprimaria.com/lecturas-para-ninos-primaria/tristan-pirata" title="">TRISTÁN QUERÍA SER PIRATA</a></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780857170273-kmnt1a2qi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><strong>Act.2: Tristán.</strong></p>\n<figure class=\"exe-figure float-right\" style=\"width: 100px;\"><img src=\"{{context_path}}/content/resources/pirata 1.png\" width=\"100\" height=\"225\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Pirata</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">¡Ya sabemos como son los piratas! ¿Qué te han parecido? Geniales, ¿verdad</p>\n<p style=\"text-align: center;\">Ahora vamos a conocer a nuestro amigo Tristán, un niño que soñaba con ser pirata:</p>\n<p style=\"text-align: center;\"><a href=\"https://www.mundoprimaria.com/lecturas-para-ninos-primaria/tristan-pirata\" title=\"\">TRISTÁN QUERÍA SER PIRATA</a></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfj-y6vy6y367</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ORDENA LA HISTORIA</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORDENA LA HISTORIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORDENA LA HISTORIA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfj-y6vy6y367</odePageId>
+      <odeBlockId>block-1780857335587-hwhfq0meq</odeBlockId>
+      <blockName>ORDENA LA HISTORIA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfj-y6vy6y367</odePageId>
+          <odeBlockId>block-1780857335587-hwhfq0meq</odeBlockId>
+          <odeIdeviceId>idevice-1780857335586-sz8end032</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Act.3: Secuencia temporal.</strong></p>
+<figure class="exe-figure position-center" style="width: 200px;"><img src="{{context_path}}/content/resources/image.png" width="200" height="264" alt="" />
+<figcaption class="figcaption"><span class="author">Pinterest</span>. <span class="title"><em>Barco pirata</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: center;">¿Te acuerdas de la historia de nuestro amigo Tristán? !Seguro que sí!</p>
+<p style="text-align: center;">Ordena la siguiente secuencia temporal del cuento:</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1kHX_r9C_Uz89YEU2Oji8OUhJSyJjWMRN/view?usp=sharing" title="">ORDENA LA HISTORIA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780857335586-sz8end032","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Act.3: Secuencia temporal.</strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 200px;\"><img src=\"{{context_path}}/content/resources/image.png\" width=\"200\" height=\"264\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pinterest</span>. <span class=\"title\"><em>Barco pirata</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: center;\">¿Te acuerdas de la historia de nuestro amigo Tristán? !Seguro que sí!</p>\n<p style=\"text-align: center;\">Ordena la siguiente secuencia temporal del cuento:</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1kHX_r9C_Uz89YEU2Oji8OUhJSyJjWMRN/view?usp=sharing\" title=\"\">ORDENA LA HISTORIA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfk-f9ie588e2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfk-f9ie588e2</odePageId>
+      <odeBlockId>block-1780854980495-jri531cdb</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfk-f9ie588e2</odePageId>
+          <odeBlockId>block-1780854980495-jri531cdb</odeBlockId>
+          <odeIdeviceId>idevice-1780854980493-cgz2m6b11</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">En el siguiente enlace se puede ver la relación entre las actividades, los criterios de evaluación, los agrupamientos, temporalización y las herramientas que se van a necesitar para llevar a cabo la presente Situación de aprendizaje.</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/1i6EkceXB3fsoXB_0KT5dcFuf8zT-8lrn/view?usp=sharing" title="">RELACIÓN DE CRITERIOS DE EVALUACIÓN</a></p>
+<p style="text-align: left;">Por último, en el siguiente enlace encontraréis los instrumentos de evaluación que vamos a utilizar para comprobar como ha ido nuestro viaje pirata:</p>
+<p style="text-align: center;"><a href="https://drive.google.com/file/d/15Uz4oTa5mru9c2i8wpfqNUF2bbHkPh2X/view?usp=sharing" title="">INSTRUMENTOS DE EVALUACIÓN PIRATA</a></p>
+<p style="text-align: center;"></p>
+<p style="text-align: left;"><strong>Medidas DUA:</strong></p>
+<p style="text-align: left;">Se van a llevar a cabo actividades motivadoras a través de la gamificación, para que el alumnado se sienta atraído ante la realización de las mismas. </p>
+<p style="text-align: left;">Así mismo, se van a acompañar las explicaciones de imágenes y vídeos que ayuden a su comprensión, así como se han seleccionado textos teniendo en cuenta su nivel de competencia curricular.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780854980493-cgz2m6b11","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">En el siguiente enlace se puede ver la relación entre las actividades, los criterios de evaluación, los agrupamientos, temporalización y las herramientas que se van a necesitar para llevar a cabo la presente Situación de aprendizaje.</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/1i6EkceXB3fsoXB_0KT5dcFuf8zT-8lrn/view?usp=sharing\" title=\"\">RELACIÓN DE CRITERIOS DE EVALUACIÓN</a></p>\n<p style=\"text-align: left;\">Por último, en el siguiente enlace encontraréis los instrumentos de evaluación que vamos a utilizar para comprobar como ha ido nuestro viaje pirata:</p>\n<p style=\"text-align: center;\"><a href=\"https://drive.google.com/file/d/15Uz4oTa5mru9c2i8wpfqNUF2bbHkPh2X/view?usp=sharing\" title=\"\">INSTRUMENTOS DE EVALUACIÓN PIRATA</a></p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: left;\"><strong>Medidas DUA:</strong></p>\n<p style=\"text-align: left;\">Se van a llevar a cabo actividades motivadoras a través de la gamificación, para que el alumnado se sienta atraído ante la realización de las mismas. </p>\n<p style=\"text-align: left;\">Así mismo, se van a acompañar las explicaciones de imágenes y vídeos que ayuden a su comprensión, así como se han seleccionado textos teniendo en cuenta su nivel de competencia curricular.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqgjfgfl-9zpmymqd3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>FIN DEL VIAJE PIRATA</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FIN DEL VIAJE PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>FIN DEL VIAJE PIRATA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqgjfgfl-9zpmymqd3</odePageId>
+      <odeBlockId>block-1780855375828-cmg8n2pcz</odeBlockId>
+      <blockName>FIN DEL VIAJE PIRATA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqgjfgfl-9zpmymqd3</odePageId>
+          <odeBlockId>block-1780855375828-cmg8n2pcz</odeBlockId>
+          <odeIdeviceId>idevice-1780855375826-v6qt38kg5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría</strong></p>
+<p>Nombre y apellidos: Manoli Vargas Martínez</p>
+<p>Centro Educativo: CEIP Bachiller Pérez de Moya</p>
+<p>Curso: Competencia Digital Docente B2</p>
+<p><strong>Titulo del recurso</strong></p>
+<p>¡Al abordaje! La aventura pirata</p>
+<p><strong>Descripción</strong></p>
+<p>Se trata de una Situación de Aprendizaje (SdA) dirigida al alumnado de 3º de Educación Primaria, más concretamente a un pequeño grupo que presenta Necesidades Educativas Especiales. Dicha SdA está centrada en el desarrollo de la competencia digital, la comunicación, el trabajo en equipo, así como la atención mediante una temática motivadora basada en los piratas.</p>
+<p><strong>Licencia</strong></p>
+<p>Las imágenes, vídeos, audios y materiales externos utilizados mantienen la autoría y licencias indicadas en cada caso.</p>
+<p><strong>Archivo editable</strong></p>
+<p>Pulse el siguiente botón para descargar el archivo fuente de eXeLearning: <a href="{{context_path}}/content/resources/al-abordaje.elpx" title="al-abordaje.elpx">al-abordaje.elpx</a></p>
+<p><br /></p>
+<p><strong>Fecha de creación</strong></p>
+<p>Junio de 2026</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780855375826-v6qt38kg5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría</strong></p>\n<p>Nombre y apellidos: Manoli Vargas Martínez</p>\n<p>Centro Educativo: CEIP Bachiller Pérez de Moya</p>\n<p>Curso: Competencia Digital Docente B2</p>\n<p><strong>Titulo del recurso</strong></p>\n<p>¡Al abordaje! La aventura pirata</p>\n<p><strong>Descripción</strong></p>\n<p>Se trata de una Situación de Aprendizaje (SdA) dirigida al alumnado de 3º de Educación Primaria, más concretamente a un pequeño grupo que presenta Necesidades Educativas Especiales. Dicha SdA está centrada en el desarrollo de la competencia digital, la comunicación, el trabajo en equipo, así como la atención mediante una temática motivadora basada en los piratas.</p>\n<p><strong>Licencia</strong></p>\n<p>Las imágenes, vídeos, audios y materiales externos utilizados mantienen la autoría y licencias indicadas en cada caso.</p>\n<p><strong>Archivo editable</strong></p>\n<p>Pulse el siguiente botón para descargar el archivo fuente de eXeLearning: <a href=\"{{context_path}}/content/resources/al-abordaje.elpx\" title=\"al-abordaje.elpx\">al-abordaje.elpx</a></p>\n<p><br /></p>\n<p><strong>Fecha de creación</strong></p>\n<p>Junio de 2026</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
